@@ -72,4 +72,3 @@ Esto abrirá la aplicación en tu navegador web automáticamente.
 - Para detener la aplicación, presiona Ctrl+C en la terminal.
 
 ¡Disfruta explorando los datos!</content>
-<parameter name="filePath">c:\Users\Chris\Documents\Cursos_Santander\My Project\README.md
